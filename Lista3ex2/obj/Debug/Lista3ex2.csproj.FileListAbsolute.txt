@@ -1,0 +1,7 @@
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex2\bin\Debug\Lista3ex2.exe.config
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex2\bin\Debug\Lista3ex2.exe
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex2\bin\Debug\Lista3ex2.pdb
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex2\obj\Debug\Lista3ex2.csproj.AssemblyReference.cache
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex2\obj\Debug\Lista3ex2.csproj.CoreCompileInputs.cache
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex2\obj\Debug\Lista3ex2.exe
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex2\obj\Debug\Lista3ex2.pdb

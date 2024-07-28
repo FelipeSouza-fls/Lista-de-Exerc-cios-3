@@ -1,0 +1,14 @@
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex7\bin\Debug\Lista3ex7.exe.config
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex7\bin\Debug\Lista3ex7.exe
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex7\bin\Debug\Lista3ex7.pdb
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex7\obj\Debug\Lista3ex7.csproj.AssemblyReference.cache
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex7\obj\Debug\Lista3ex7.csproj.CoreCompileInputs.cache
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex7\obj\Debug\Lista3ex7.exe
+C:\Users\Chizuru\source\repos\Lista3ex1\Lista3ex7\obj\Debug\Lista3ex7.pdb
+C:\Users\Chizuru\Downloads\Lista3ex1\Lista3ex7\bin\Debug\Lista3ex7.exe.config
+C:\Users\Chizuru\Downloads\Lista3ex1\Lista3ex7\bin\Debug\Lista3ex7.exe
+C:\Users\Chizuru\Downloads\Lista3ex1\Lista3ex7\bin\Debug\Lista3ex7.pdb
+C:\Users\Chizuru\Downloads\Lista3ex1\Lista3ex7\obj\Debug\Lista3ex7.csproj.AssemblyReference.cache
+C:\Users\Chizuru\Downloads\Lista3ex1\Lista3ex7\obj\Debug\Lista3ex7.csproj.CoreCompileInputs.cache
+C:\Users\Chizuru\Downloads\Lista3ex1\Lista3ex7\obj\Debug\Lista3ex7.exe
+C:\Users\Chizuru\Downloads\Lista3ex1\Lista3ex7\obj\Debug\Lista3ex7.pdb
